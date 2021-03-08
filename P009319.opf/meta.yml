@@ -4,4 +4,49 @@ source_metadata:
   id: bdr:W22946
   title: གསུང་འབུམ། ངག་དབང་དཔལ་བཟང་།
   author: ''
-  volumes: {}
+  volumes:
+    4cfaffe7630b4b36975469bc909a5299:
+      image_group_id: I1KG12012
+      title: ''
+      volume_number: 1
+      total_pages: 885
+    c247f1b185b84dfbb1f5c60d9e9b8849:
+      image_group_id: I1KG12013
+      title: ''
+      volume_number: 2
+      total_pages: 398
+    afd927a0e23c485d819e9274b1964388:
+      image_group_id: I1KG12014
+      title: ''
+      volume_number: 3
+      total_pages: 692
+    85222a1a455c4dcfaa79902671a2bf4a:
+      image_group_id: I1KG12015
+      title: ''
+      volume_number: 4
+      total_pages: 608
+    743185c0d0b646af853efaa54f46b9fa:
+      image_group_id: I1KG12016
+      title: ''
+      volume_number: 5
+      total_pages: 876
+    cec9692a440246c08797eaccf70b4f9f:
+      image_group_id: I1KG12017
+      title: ''
+      volume_number: 6
+      total_pages: 568
+    fef2a45e119b4dfc85cd84c6d8f28f3b:
+      image_group_id: I1KG12018
+      title: ''
+      volume_number: 7
+      total_pages: 566
+    219dd841f3df408b9cd22b56106b24f9:
+      image_group_id: I1KG12019
+      title: ''
+      volume_number: 8
+      total_pages: 716
+    fc7e6ac50ca8459b88c2f4cb610a93f8:
+      image_group_id: I1KG12020
+      title: ''
+      volume_number: 9
+      total_pages: 800
