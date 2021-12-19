@@ -1,7 +1,7 @@
 id: P009319
 initial_creation_type: ocr
 created_at: 25/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-19 19:33:12.402771
 source_metadata:
   id: bdr:W22946
   title: གསུང་འབུམ། ངག་དབང་དཔལ་བཟང་།
@@ -61,3 +61,5 @@ source_metadata:
       volume_number: 9
       total_pages: 800
       base_file: v009.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
